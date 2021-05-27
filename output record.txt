@@ -1,0 +1,14 @@
+Epoch 1/5
+52/52 - 2s - loss: 0.2347
+Epoch 2/5
+52/52 - 0s - loss: 0.0751
+Epoch 3/5
+52/52 - 0s - loss: 0.0223
+Epoch 4/5
+52/52 - 0s - loss: 0.0195
+Epoch 5/5
+52/52 - 0s - loss: 0.0161
+Train RMSE: 1.05
+Test RMSE: 0.98
+Last Day Value: 28.897500038146973
+Next Day Value: 27.52678
